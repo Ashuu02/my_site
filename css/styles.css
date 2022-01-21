@@ -111,7 +111,8 @@ h2{
 
 .language{
   font-family:cursive, sans-serif;
-  margin:auto;
+  position:relative;
+  margin:30px auto;
 }
 .code_intro{
   font-family: 'Acme', sans-serif;
